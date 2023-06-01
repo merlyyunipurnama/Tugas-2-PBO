@@ -34,4 +34,4 @@ Untuk menggunakan kode ini, langkah-langkah yang dapat dilakukan antara lain:
 7. Menampilkan daftar mahasiswa dalam setiap jurusan menggunakan fungsi tampilkanDaftarMahasiswa pada objek jurusan.
 
 Contoh program sederhana untuk mengelola data mahasiswa di sebuah universitas XYZ :
-https://github.com/merlyyunipurnama/Tugas-2-PBO
+https://github.com/merlyyunipurnama/Tugas-2-PBO/blob/main/Code-Tugas-2.py
